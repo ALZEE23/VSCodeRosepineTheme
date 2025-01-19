@@ -77,4 +77,4 @@ code --install-extension xdebug.php-debug
 code --install-extension zhuangtongfa.material-theme
 code --install-extension zignd.html-css-class-completion
 ```
-<img src="Screenshot"> 
+<img src="https://github.com/ALZEE23/VSCode-Extensions/blob/main/Screenshot%20from%202025-01-19%2019-48-10.png"> 
