@@ -80,4 +80,17 @@ code --install-extension zignd.html-css-class-completion
 
 # Footage
 <img src="https://github.com/ALZEE23/VSCode-Extensions/blob/main/Screenshot%20from%202025-01-19%2019-55-53.png">
-<img src="https://github.com/ALZEE23/VSCode-Extensions/blob/main/Screenshot%20from%202025-01-19%2019-48-10.png"> 
+<img src="https://github.com/ALZEE23/VSCode-Extensions/blob/main/Screenshot%20from%202025-01-19%2019-48-10.png">
+
+# Profile
+
+```
+// open your vscode
+ctrl + shift + p
+
+// enter
+import profile
+
+// choose
+ALZEE23.code-profile
+```
