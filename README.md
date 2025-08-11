@@ -84,7 +84,7 @@ code --install-extension zignd.html-css-class-completion
 
 # Profile
 
-```haskell
+```bash
 // open your vscode
 ctrl + shift + p
 
